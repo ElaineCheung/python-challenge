@@ -1,0 +1,14 @@
+
+Financial Analysis
+-----------------
+Total Months: 86
+Average  Change: 446309.0465116279
+Greatest increase in profits was in Feb-2012 ($1,170,593.00)
+Greatest decrease in losses was in Sep-2013 ($-1,196,225.00)
+
+Financial Analysis
+-----------------
+Total Months: 86
+Average  Change: 446309.0465116279
+Greatest increase in profits was in Feb-2012 ($1,170,593.00)
+Greatest decrease in losses was in Sep-2013 ($-1,196,225.00)
